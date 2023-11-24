@@ -2,5 +2,15 @@ body{
     text-align: center;
     font-size: Arial;
     color: rgb(190, 43, 190);
+    margin: 0;
+    padding: 0;
 }
 
+
+#container{
+width: 70%;
+padding: 1em;
+text-align: left;
+border: 1px solid bisque;
+margin: 0 auto;
+}
